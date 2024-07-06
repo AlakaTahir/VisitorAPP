@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cm2Ue0gnO/Ql90ebtHOPgfk/5Dm5R4i7SIvf+MhpycUacVOPbDkSIr2TfFJvHkURCmxBSgqntXSDkgaepoHqQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CORE I5\\Documents\\Dotnet Projects\\Revamped-ESS\\Visitor.Model\\Visitor.API\\Visitor.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CORE I5\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\CORE I5\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CORE I5\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\CORE I5\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\CORE I5\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\CORE I5\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
